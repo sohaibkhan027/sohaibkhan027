@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sohaib_xox
-- 👀 I’m interested in Web Developing
-- 🌱 I’m currently learning JavaScript
+- 👀 Mern Stack Developer
+- 🌱 NodeJs And ReactJs
 - 💞️ I’m looking to collaborate on Company
 - 📫 How to reach me On Social Media
 
